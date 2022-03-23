@@ -8,6 +8,9 @@ Image colorization is the process of taking an input grayscale (black and white)
 
 
 
+
+
+
 ## Architecture of Image Colorization Network
 
 
