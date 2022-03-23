@@ -8,3 +8,7 @@ Image colorization is the process of taking an input grayscale (black and white)
 
 
 
+## Architecture of Image Colorization Network
+
+
+![colornet_architecture](https://user-images.githubusercontent.com/63404097/159618237-c63335f4-4ee6-4508-9d44-47c1a4e191f1.png)
