@@ -15,3 +15,10 @@ Image colorization is the process of taking an input grayscale (black and white)
 
 
 ![colornet_architecture](https://user-images.githubusercontent.com/63404097/159618237-c63335f4-4ee6-4508-9d44-47c1a4e191f1.png)
+
+
+## Color Space
+
+
+
+![colorspaces](https://user-images.githubusercontent.com/63404097/159941664-d316ec13-4b85-4974-88aa-47cf28afee61.png)
